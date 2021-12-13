@@ -1,0 +1,6 @@
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/obj/Debug/Лабораторная2.csproj.AssemblyReference.cache
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/obj/Debug/Лабораторная2.csproj.CoreCompileInputs.cache
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/bin/Debug/Лабораторная2.exe
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/bin/Debug/Лабораторная2.pdb
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/obj/Debug/Лабораторная2.exe
+/Users/irina/Desktop/Лабораторная2/Лабораторная2/obj/Debug/Лабораторная2.pdb
